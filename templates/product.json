@@ -15,7 +15,7 @@
         "title": {
           "type": "title",
           "settings": {
-            "heading_tag": "h2"
+            "heading_tag": "h3"
           }
         },
         "price": {
@@ -53,6 +53,13 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "collapsible_text_tQdnbJ": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "ΠΕΡΙΓΡΑΦΗ",
+            "content": "{{ product.description }}"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -73,6 +80,7 @@
         "description",
         "variant_picker",
         "quantity_selector",
+        "collapsible_text_tQdnbJ",
         "buy_buttons"
       ],
       "settings": {
