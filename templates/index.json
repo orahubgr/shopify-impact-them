@@ -201,12 +201,58 @@
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
+        },
+        "image_BtJcrt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/jeanpoedagar_1721402479_3415694022494832445_62981107554_jpg.webp",
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 1,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_7k3xWP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Relogio_Poedagar_Vortex_Onde_o_Luxo_encontra_a_Precisao_Frete_Gratis_para_todo_Brasil_Entrega_de_2_a_5_dias_via_SEDEX_Confira_ja_em_nosso_site_relogio_relogiomasculino_relogios_poedag.jpg",
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 1,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
         "item-1",
         "item-2",
-        "item-3"
+        "item-3",
+        "image_BtJcrt",
+        "image_7k3xWP"
       ],
       "settings": {
         "full_width": true,
@@ -228,7 +274,7 @@
         "show_progress_bar": false,
         "products_count": 6,
         "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
+        "products_per_row_desktop": 4,
         "subheading": "",
         "title": "ΟΙ ΠΕΛΑΤΕΣ ΛΑΤΡΕΨΑΝ:",
         "content": "",
