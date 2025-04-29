@@ -136,7 +136,7 @@
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "auto",
+        "image_size": "md",
         "image": "shopify://shop_images/Relogio_Poedagar_Bergamo.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
