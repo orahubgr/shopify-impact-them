@@ -21,11 +21,23 @@
           "settings": {
             "content": "<p><strong>ΔΕΝ ΔΕΙΧΝΟΥΝ ΑΠΛΑ ΤΗΝ ΩΡΑ, ΑΛΛΑ ΑΝΑΔΕΙΚΝΥΟΥΝ ΑΡΡΕΝΩΠΟΤΗΤΑ</strong></p>"
           }
+        },
+        "button_jUJCXF": {
+          "type": "button",
+          "settings": {
+            "style": "outline",
+            "size": "lg",
+            "text": "ΨΩΝΙΣΕ ΕΔΩ",
+            "url": "",
+            "background": "",
+            "text_color": "#ffffff"
+          }
         }
       },
       "block_order": [
         "play_fkNzMn",
-        "richtext_betMXk"
+        "richtext_betMXk",
+        "button_jUJCXF"
       ],
       "name": "Video",
       "settings": {
