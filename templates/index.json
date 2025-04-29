@@ -42,7 +42,7 @@
       "name": "Video",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
+        "allow_transparent_header": true,
         "autoplay": true,
         "video_size": "lg",
         "video": "shopify://files/videos/pinterestdownloader.com-1737627886.67468.mp4",
