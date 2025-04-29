@@ -9,8 +9,41 @@
  */
 {
   "sections": {
+    "video_VtKKf4": {
+      "type": "video",
+      "blocks": {
+        "play_kBrQjF": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_F6HVUP": {
+          "type": "heading",
+          "settings": {
+            "text": "ΑΣΕ ΤΟ ΝΑ ΚΑΝΕΙ ΤΗ ΠΡΩΤΗ ΕΝΤΥΠΩΣΗ",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_kBrQjF",
+        "heading_F6HVUP"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "autoplay": true,
+        "video_size": "lg",
+        "video": "shopify://files/videos/pinterestdownloader.com-1737141424.114319.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "banner": {
       "type": "collection-banner",
+      "disabled": true,
       "settings": {
         "full_width": false,
         "allow_transparent_header": false,
@@ -44,43 +77,11 @@
         "show_filter_values_count": true,
         "open_first_filter_group": false
       }
-    },
-    "video_VtKKf4": {
-      "type": "video",
-      "blocks": {
-        "play_kBrQjF": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_F6HVUP": {
-          "type": "heading",
-          "settings": {
-            "text": "ΑΣΕ ΤΟ ΝΑ ΚΑΝΕΙ ΤΗ ΠΡΩΤΗ ΕΝΤΥΠΩΣΗ",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "play_kBrQjF",
-        "heading_F6HVUP"
-      ],
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "lg",
-        "video": "shopify://files/videos/pinterestdownloader.com-1737141424.114319.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
     }
   },
   "order": [
+    "video_VtKKf4",
     "banner",
-    "main",
-    "video_VtKKf4"
+    "main"
   ]
 }
