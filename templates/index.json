@@ -82,7 +82,7 @@
         "title": "ΡΟΛΟΓΙΑ ΜΑΣ",
         "content": "",
         "link_url": "",
-        "link_text": "View all",
+        "link_text": "ΔΕΣ ΠΕΡΙΣΣΟΤΕΡΑ",
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
@@ -120,7 +120,7 @@
             "style": "fill",
             "size": "lg",
             "text": "ΨΩΝΙΣΕ ΕΔΩ",
-            "url": "shopify://collections/collection1",
+            "url": "shopify://collections/all",
             "background": "",
             "text_color": ""
           }
